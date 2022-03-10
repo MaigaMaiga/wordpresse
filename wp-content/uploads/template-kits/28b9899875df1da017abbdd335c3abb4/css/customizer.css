@@ -1,0 +1,49 @@
+.envato-kit-202-carousel .elementor-slick-slider .slick-next, .envato-kit-202-carousel .elementor-slick-slider .slick-prev, .envato-kit-202-carousel .elementor-swiper-button{
+	top: 80% !important;
+}
+.envato-kit-202-carousel .elementor-slick-slider .slick-next{
+	left: -50px !important;
+		
+}
+.envato-kit-202-carousel .elementor-slick-slider .slick-prev{
+	left: -100px !important;
+
+}
+.envato-kit-202-carousel .elementor-swiper-button-next{
+	left: 30px !important;
+	right: auto !important;
+}
+.envato-kit-202-carousel .elementor-swiper-button-prev{}
+/* Portfolio Media Carousel */
+.envato-kit-202-portfolio .swiper-slide{
+	opacity: .2;
+}
+.envato-kit-202-portfolio .swiper-slide-active{
+	width: 70% !important;
+		opacity: 1;
+}
+.envato-kit-202-portfolio .swiper-slide-next{
+	width: 35% !important;
+padding-top: 50%;
+	margin-left: -100px;
+	opacity: 1;
+}
+.envato-kit-202-portfolio .swiper-slide-next div{
+	max-height: 300px;
+
+}
+.envato-kit-202-portfolio .swiper-pagination-fraction{
+	text-align: left;
+	padding: 3em 2em;
+	font-family: sans-serif;
+	font-weight: bold;
+}
+.envato-kit-202-portfolio .elementor-carousel-image-overlay{
+	text-align: left !important;
+	align-items: flex-end;
+	justify-content: flex-start;
+	padding: 2em 1.5em;
+}
+.envato-kit-202-portfolio .swiper-slide-active .elementor-carousel-image-overlay{
+	opacity: .8;
+}

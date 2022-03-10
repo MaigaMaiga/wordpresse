@@ -1,0 +1,811 @@
+{
+    "manifest_version": "1.0.9",
+    "title": "Photography Studio",
+    "page_builder": "elementor",
+    "kit_version": "2.0.1",
+    "templates": [
+        {
+            "name": "Home 1",
+            "screenshot": "screenshots\/home-1.jpg",
+            "source": "templates\/home-1-22fad0c17bfe3aaf620e27e0434a4c5f.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home 2 (Pro)",
+            "screenshot": "screenshots\/home-2-pro-.jpg",
+            "source": "templates\/home-2-pro-0e06a06decb8ed90c3e97cd32d7fa227.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Home 3",
+            "screenshot": "screenshots\/home-3.jpg",
+            "source": "templates\/home-3-e6de0ef52d66c36a74785659d62b5c30.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Services",
+            "screenshot": "screenshots\/services.jpg",
+            "source": "templates\/services-33d67e7255b3c6158c75eb38b4b4b06c.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Services 2 (Pro)",
+            "screenshot": "screenshots\/services-2-pro-.jpg",
+            "source": "templates\/services-2-pro-d0a4fa1a2e43a9e941854fcb5ab0e7de.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "About Us",
+            "screenshot": "screenshots\/about-us.jpg",
+            "source": "templates\/about-us-46802f7a9f67468f40ce98c39e826d5e.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Portfolio",
+            "screenshot": "screenshots\/portfolio.jpg",
+            "source": "templates\/portfolio-59a917ca15cee833f258dada62c79457.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Portfolio 2 (Pro)",
+            "screenshot": "screenshots\/portfolio-2-pro-.jpg",
+            "source": "templates\/portfolio-2-pro-39c4504b27f2592bacff93295fdcdf35.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Contact Us",
+            "screenshot": "screenshots\/contact-us.jpg",
+            "source": "templates\/contact-us-823d4c44e1cea9dbddeaa7db23a1dbcf.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Booking & Contact (Pro)",
+            "screenshot": "screenshots\/booking-contact-pro-.jpg",
+            "source": "templates\/booking-contact-pro-d5cf19ae1a908792203f12f9d037bc39.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Elementor",
+            "version": "2.9.6",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "Elementor Pro",
+            "version": "2.9.6",
+            "file": "elementor-pro\/elementor-pro.php",
+            "author": "Elementor.com"
+        }
+    ],
+    "required_css": [
+        {
+            "name": "Custom CSS",
+            "description": "These styles are added to the WordPress Customizer.",
+            "file": "css\/customizer.css"
+        }
+    ],
+    "images": [
+        {
+            "filename": "pooja-chaudhary-bqnbKxiIGZI-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/201\/2019\/11\/pooja-chaudhary-bqnbKxiIGZI-unsplash-500x500.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-22fad0c17bfe3aaf620e27e0434a4c5f.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-2-pro-0e06a06decb8ed90c3e97cd32d7fa227.json",
+                    "name": "Home 2 (Pro)"
+                },
+                {
+                    "source": "templates\/home-3-e6de0ef52d66c36a74785659d62b5c30.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/services-2-pro-d0a4fa1a2e43a9e941854fcb5ab0e7de.json",
+                    "name": "Services 2 (Pro)"
+                },
+                {
+                    "source": "templates\/about-us-46802f7a9f67468f40ce98c39e826d5e.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/portfolio-59a917ca15cee833f258dada62c79457.json",
+                    "name": "Portfolio"
+                },
+                {
+                    "source": "templates\/booking-contact-pro-d5cf19ae1a908792203f12f9d037bc39.json",
+                    "name": "Booking & Contact (Pro)"
+                }
+            ],
+            "filesize": 304768,
+            "dimensions": [
+                1920,
+                1920
+            ]
+        },
+        {
+            "filename": "gemma-chua-tran-z-u624SN9VY-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/201\/2019\/11\/gemma-chua-tran-z-u624SN9VY-unsplash-500x357.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-22fad0c17bfe3aaf620e27e0434a4c5f.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-2-pro-0e06a06decb8ed90c3e97cd32d7fa227.json",
+                    "name": "Home 2 (Pro)"
+                },
+                {
+                    "source": "templates\/home-3-e6de0ef52d66c36a74785659d62b5c30.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/services-33d67e7255b3c6158c75eb38b4b4b06c.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/services-2-pro-d0a4fa1a2e43a9e941854fcb5ab0e7de.json",
+                    "name": "Services 2 (Pro)"
+                },
+                {
+                    "source": "templates\/portfolio-59a917ca15cee833f258dada62c79457.json",
+                    "name": "Portfolio"
+                },
+                {
+                    "source": "templates\/portfolio-2-pro-39c4504b27f2592bacff93295fdcdf35.json",
+                    "name": "Portfolio 2 (Pro)"
+                }
+            ],
+            "filesize": 494401,
+            "dimensions": [
+                1920,
+                1372
+            ]
+        },
+        {
+            "filename": "photo-of-woman-wearing-white-top-2744193.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/201\/2019\/11\/photo-of-woman-wearing-white-top-2744193-500x750.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-22fad0c17bfe3aaf620e27e0434a4c5f.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/portfolio-2-pro-39c4504b27f2592bacff93295fdcdf35.json",
+                    "name": "Portfolio 2 (Pro)"
+                }
+            ],
+            "filesize": 519718,
+            "dimensions": [
+                1920,
+                2879
+            ]
+        },
+        {
+            "filename": "photo-of-woman-wearing-black-bra-and-black-leggings-2744192.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/201\/2019\/11\/photo-of-woman-wearing-black-bra-and-black-leggings-2744192-500x750.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-22fad0c17bfe3aaf620e27e0434a4c5f.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-2-pro-0e06a06decb8ed90c3e97cd32d7fa227.json",
+                    "name": "Home 2 (Pro)"
+                },
+                {
+                    "source": "templates\/home-3-e6de0ef52d66c36a74785659d62b5c30.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/services-33d67e7255b3c6158c75eb38b4b4b06c.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/portfolio-2-pro-39c4504b27f2592bacff93295fdcdf35.json",
+                    "name": "Portfolio 2 (Pro)"
+                },
+                {
+                    "source": "templates\/booking-contact-pro-d5cf19ae1a908792203f12f9d037bc39.json",
+                    "name": "Booking & Contact (Pro)"
+                }
+            ],
+            "filesize": 326284,
+            "dimensions": [
+                1920,
+                2879
+            ]
+        },
+        {
+            "filename": "patricia-palma-l_adRqoRjnY-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/201\/2019\/11\/patricia-palma-l_adRqoRjnY-unsplash-500x750.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-22fad0c17bfe3aaf620e27e0434a4c5f.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-2-pro-0e06a06decb8ed90c3e97cd32d7fa227.json",
+                    "name": "Home 2 (Pro)"
+                },
+                {
+                    "source": "templates\/home-3-e6de0ef52d66c36a74785659d62b5c30.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/services-33d67e7255b3c6158c75eb38b4b4b06c.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/services-2-pro-d0a4fa1a2e43a9e941854fcb5ab0e7de.json",
+                    "name": "Services 2 (Pro)"
+                }
+            ],
+            "filesize": 183710,
+            "dimensions": [
+                1280,
+                1920
+            ]
+        },
+        {
+            "filename": "jakob-owens-QI4dA05KQUE-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/201\/2019\/11\/jakob-owens-QI4dA05KQUE-unsplash-500x333.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-22fad0c17bfe3aaf620e27e0434a4c5f.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-2-pro-0e06a06decb8ed90c3e97cd32d7fa227.json",
+                    "name": "Home 2 (Pro)"
+                },
+                {
+                    "source": "templates\/services-33d67e7255b3c6158c75eb38b4b4b06c.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/about-us-46802f7a9f67468f40ce98c39e826d5e.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/portfolio-59a917ca15cee833f258dada62c79457.json",
+                    "name": "Portfolio"
+                },
+                {
+                    "source": "templates\/portfolio-2-pro-39c4504b27f2592bacff93295fdcdf35.json",
+                    "name": "Portfolio 2 (Pro)"
+                }
+            ],
+            "filesize": 564346,
+            "dimensions": [
+                1920,
+                1280
+            ]
+        },
+        {
+            "filename": "video-still.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/201\/2019\/11\/video-still-500x264.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-22fad0c17bfe3aaf620e27e0434a4c5f.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-2-pro-0e06a06decb8ed90c3e97cd32d7fa227.json",
+                    "name": "Home 2 (Pro)"
+                },
+                {
+                    "source": "templates\/services-33d67e7255b3c6158c75eb38b4b4b06c.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/about-us-46802f7a9f67468f40ce98c39e826d5e.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/portfolio-59a917ca15cee833f258dada62c79457.json",
+                    "name": "Portfolio"
+                },
+                {
+                    "source": "templates\/portfolio-2-pro-39c4504b27f2592bacff93295fdcdf35.json",
+                    "name": "Portfolio 2 (Pro)"
+                }
+            ],
+            "filesize": 118153,
+            "dimensions": [
+                1270,
+                670
+            ]
+        },
+        {
+            "filename": "woman-in-white-crew-neck-t-shirt-embracing-woman-in-black-160599.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/201\/2019\/11\/woman-in-white-crew-neck-t-shirt-embracing-woman-in-black-160599-500x749.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-22fad0c17bfe3aaf620e27e0434a4c5f.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/portfolio-2-pro-39c4504b27f2592bacff93295fdcdf35.json",
+                    "name": "Portfolio 2 (Pro)"
+                }
+            ],
+            "filesize": 1004913,
+            "dimensions": [
+                1920,
+                2875
+            ]
+        },
+        {
+            "filename": "jordan-mixson-BCi048jfDbE-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/201\/2019\/11\/jordan-mixson-BCi048jfDbE-unsplash-500x667.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-22fad0c17bfe3aaf620e27e0434a4c5f.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-2-pro-0e06a06decb8ed90c3e97cd32d7fa227.json",
+                    "name": "Home 2 (Pro)"
+                },
+                {
+                    "source": "templates\/services-33d67e7255b3c6158c75eb38b4b4b06c.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/portfolio-2-pro-39c4504b27f2592bacff93295fdcdf35.json",
+                    "name": "Portfolio 2 (Pro)"
+                }
+            ],
+            "filesize": 196513,
+            "dimensions": [
+                1440,
+                1920
+            ]
+        },
+        {
+            "filename": "gemma-chua-tran-Tqi3mMKGmkA-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/201\/2019\/11\/gemma-chua-tran-Tqi3mMKGmkA-unsplash-500x625.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-22fad0c17bfe3aaf620e27e0434a4c5f.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-2-pro-0e06a06decb8ed90c3e97cd32d7fa227.json",
+                    "name": "Home 2 (Pro)"
+                },
+                {
+                    "source": "templates\/portfolio-2-pro-39c4504b27f2592bacff93295fdcdf35.json",
+                    "name": "Portfolio 2 (Pro)"
+                }
+            ],
+            "filesize": 656203,
+            "dimensions": [
+                1536,
+                1920
+            ]
+        },
+        {
+            "filename": "liliia-beda-aUZeQ7LCL0g-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/201\/2019\/11\/liliia-beda-aUZeQ7LCL0g-unsplash-500x750.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-22fad0c17bfe3aaf620e27e0434a4c5f.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-2-pro-0e06a06decb8ed90c3e97cd32d7fa227.json",
+                    "name": "Home 2 (Pro)"
+                },
+                {
+                    "source": "templates\/home-3-e6de0ef52d66c36a74785659d62b5c30.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/services-33d67e7255b3c6158c75eb38b4b4b06c.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/about-us-46802f7a9f67468f40ce98c39e826d5e.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/portfolio-59a917ca15cee833f258dada62c79457.json",
+                    "name": "Portfolio"
+                },
+                {
+                    "source": "templates\/booking-contact-pro-d5cf19ae1a908792203f12f9d037bc39.json",
+                    "name": "Booking & Contact (Pro)"
+                }
+            ],
+            "filesize": 198505,
+            "dimensions": [
+                1280,
+                1920
+            ]
+        },
+        {
+            "filename": "photo-of-woman-sitting-on-staircase-beside-man-1336409.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/201\/2019\/11\/photo-of-woman-sitting-on-staircase-beside-man-1336409-500x334.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-22fad0c17bfe3aaf620e27e0434a4c5f.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-2-pro-0e06a06decb8ed90c3e97cd32d7fa227.json",
+                    "name": "Home 2 (Pro)"
+                },
+                {
+                    "source": "templates\/home-3-e6de0ef52d66c36a74785659d62b5c30.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/services-2-pro-d0a4fa1a2e43a9e941854fcb5ab0e7de.json",
+                    "name": "Services 2 (Pro)"
+                },
+                {
+                    "source": "templates\/about-us-46802f7a9f67468f40ce98c39e826d5e.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/portfolio-2-pro-39c4504b27f2592bacff93295fdcdf35.json",
+                    "name": "Portfolio 2 (Pro)"
+                },
+                {
+                    "source": "templates\/booking-contact-pro-d5cf19ae1a908792203f12f9d037bc39.json",
+                    "name": "Booking & Contact (Pro)"
+                }
+            ],
+            "filesize": 131991,
+            "dimensions": [
+                1920,
+                1281
+            ]
+        },
+        {
+            "filename": "woman-posing-for-photo-shoot-1689731.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/201\/2019\/11\/woman-posing-for-photo-shoot-1689731-500x749.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-22fad0c17bfe3aaf620e27e0434a4c5f.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/portfolio-2-pro-39c4504b27f2592bacff93295fdcdf35.json",
+                    "name": "Portfolio 2 (Pro)"
+                }
+            ],
+            "filesize": 338598,
+            "dimensions": [
+                1920,
+                2876
+            ]
+        },
+        {
+            "filename": "christopher-campbell-wUXhJOYicIE-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/201\/2019\/11\/christopher-campbell-wUXhJOYicIE-unsplash-500x342.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2-pro-0e06a06decb8ed90c3e97cd32d7fa227.json",
+                    "name": "Home 2 (Pro)"
+                },
+                {
+                    "source": "templates\/home-3-e6de0ef52d66c36a74785659d62b5c30.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/about-us-46802f7a9f67468f40ce98c39e826d5e.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/booking-contact-pro-d5cf19ae1a908792203f12f9d037bc39.json",
+                    "name": "Booking & Contact (Pro)"
+                }
+            ],
+            "filesize": 199915,
+            "dimensions": [
+                1920,
+                1314
+            ]
+        },
+        {
+            "filename": "pexels-photo-1030895.jpeg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/201\/2019\/11\/pexels-photo-1030895-500x625.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/home-2-pro-0e06a06decb8ed90c3e97cd32d7fa227.json",
+                    "name": "Home 2 (Pro)"
+                },
+                {
+                    "source": "templates\/portfolio-59a917ca15cee833f258dada62c79457.json",
+                    "name": "Portfolio"
+                },
+                {
+                    "source": "templates\/portfolio-2-pro-39c4504b27f2592bacff93295fdcdf35.json",
+                    "name": "Portfolio 2 (Pro)"
+                }
+            ],
+            "filesize": 81825,
+            "dimensions": [
+                1200,
+                1500
+            ]
+        },
+        {
+            "filename": "joey-nicotra-HiqgOQaksAQ-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/201\/2019\/11\/joey-nicotra-HiqgOQaksAQ-unsplash-500x625.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2-pro-0e06a06decb8ed90c3e97cd32d7fa227.json",
+                    "name": "Home 2 (Pro)"
+                },
+                {
+                    "source": "templates\/portfolio-2-pro-39c4504b27f2592bacff93295fdcdf35.json",
+                    "name": "Portfolio 2 (Pro)"
+                }
+            ],
+            "filesize": 457168,
+            "dimensions": [
+                1536,
+                1920
+            ]
+        },
+        {
+            "filename": "gemma-chua-tran-EhO79LwoIqY-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/201\/2019\/11\/gemma-chua-tran-EhO79LwoIqY-unsplash-500x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2-pro-0e06a06decb8ed90c3e97cd32d7fa227.json",
+                    "name": "Home 2 (Pro)"
+                },
+                {
+                    "source": "templates\/portfolio-2-pro-39c4504b27f2592bacff93295fdcdf35.json",
+                    "name": "Portfolio 2 (Pro)"
+                }
+            ],
+            "filesize": 610785,
+            "dimensions": [
+                1920,
+                1536
+            ]
+        },
+        {
+            "filename": "kal-visuals-mgoxHRNoT00-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/201\/2019\/11\/kal-visuals-mgoxHRNoT00-unsplash-500x750.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2-pro-0e06a06decb8ed90c3e97cd32d7fa227.json",
+                    "name": "Home 2 (Pro)"
+                },
+                {
+                    "source": "templates\/home-3-e6de0ef52d66c36a74785659d62b5c30.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/services-2-pro-d0a4fa1a2e43a9e941854fcb5ab0e7de.json",
+                    "name": "Services 2 (Pro)"
+                },
+                {
+                    "source": "templates\/about-us-46802f7a9f67468f40ce98c39e826d5e.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/portfolio-59a917ca15cee833f258dada62c79457.json",
+                    "name": "Portfolio"
+                },
+                {
+                    "source": "templates\/booking-contact-pro-d5cf19ae1a908792203f12f9d037bc39.json",
+                    "name": "Booking & Contact (Pro)"
+                }
+            ],
+            "filesize": 321182,
+            "dimensions": [
+                1460,
+                2191
+            ]
+        },
+        {
+            "filename": "portrait-of-a-woman-247204.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/201\/2019\/11\/portrait-of-a-woman-247204-500x333.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2-pro-0e06a06decb8ed90c3e97cd32d7fa227.json",
+                    "name": "Home 2 (Pro)"
+                },
+                {
+                    "source": "templates\/home-3-e6de0ef52d66c36a74785659d62b5c30.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/services-33d67e7255b3c6158c75eb38b4b4b06c.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/portfolio-59a917ca15cee833f258dada62c79457.json",
+                    "name": "Portfolio"
+                },
+                {
+                    "source": "templates\/portfolio-2-pro-39c4504b27f2592bacff93295fdcdf35.json",
+                    "name": "Portfolio 2 (Pro)"
+                },
+                {
+                    "source": "templates\/booking-contact-pro-d5cf19ae1a908792203f12f9d037bc39.json",
+                    "name": "Booking & Contact (Pro)"
+                }
+            ],
+            "filesize": 370310,
+            "dimensions": [
+                1920,
+                1280
+            ]
+        },
+        {
+            "filename": "eloise-ambursley-u-9c1GdQWs-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/201\/2019\/11\/eloise-ambursley-u-9c1GdQWs-unsplash-500x333.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2-pro-0e06a06decb8ed90c3e97cd32d7fa227.json",
+                    "name": "Home 2 (Pro)"
+                },
+                {
+                    "source": "templates\/portfolio-2-pro-39c4504b27f2592bacff93295fdcdf35.json",
+                    "name": "Portfolio 2 (Pro)"
+                }
+            ],
+            "filesize": 512795,
+            "dimensions": [
+                1920,
+                1280
+            ]
+        },
+        {
+            "filename": "photo-of-woman-wearing-black-dress-while-sitting-on-couch-2495732.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/201\/2019\/11\/photo-of-woman-wearing-black-dress-while-sitting-on-couch-2495732-500x382.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2-pro-0e06a06decb8ed90c3e97cd32d7fa227.json",
+                    "name": "Home 2 (Pro)"
+                },
+                {
+                    "source": "templates\/portfolio-2-pro-39c4504b27f2592bacff93295fdcdf35.json",
+                    "name": "Portfolio 2 (Pro)"
+                }
+            ],
+            "filesize": 248391,
+            "dimensions": [
+                1920,
+                1467
+            ]
+        },
+        {
+            "filename": "pexels-photo-699459.jpeg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/201\/2019\/11\/pexels-photo-699459-500x667.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/home-3-e6de0ef52d66c36a74785659d62b5c30.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/services-33d67e7255b3c6158c75eb38b4b4b06c.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/services-2-pro-d0a4fa1a2e43a9e941854fcb5ab0e7de.json",
+                    "name": "Services 2 (Pro)"
+                },
+                {
+                    "source": "templates\/about-us-46802f7a9f67468f40ce98c39e826d5e.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 153770,
+            "dimensions": [
+                1125,
+                1500
+            ]
+        },
+        {
+            "filename": "randy-fath-6IqCA9-Q-QQ-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/201\/2019\/11\/randy-fath-6IqCA9-Q-QQ-unsplash-500x345.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services-33d67e7255b3c6158c75eb38b4b4b06c.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/services-2-pro-d0a4fa1a2e43a9e941854fcb5ab0e7de.json",
+                    "name": "Services 2 (Pro)"
+                }
+            ],
+            "filesize": 221660,
+            "dimensions": [
+                1920,
+                1326
+            ]
+        },
+        {
+            "filename": "photo-of-woman-wearing-gray-sweater-1029810.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/201\/2019\/11\/photo-of-woman-wearing-gray-sweater-1029810-500x659.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services-2-pro-d0a4fa1a2e43a9e941854fcb5ab0e7de.json",
+                    "name": "Services 2 (Pro)"
+                },
+                {
+                    "source": "templates\/contact-us-823d4c44e1cea9dbddeaa7db23a1dbcf.json",
+                    "name": "Contact Us"
+                }
+            ],
+            "filesize": 201677,
+            "dimensions": [
+                1280,
+                1686
+            ]
+        }
+    ]
+}
